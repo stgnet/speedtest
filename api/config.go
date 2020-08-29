@@ -1,4 +1,4 @@
-package speedtest
+package api
 
 import (
 	"encoding/xml"
